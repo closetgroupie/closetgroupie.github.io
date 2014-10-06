@@ -4,9 +4,14 @@
     
 }
 
-html, body {
+html {
+	min-height: 100%;
+	position: relative;
+}
+
+body {
   padding: 0;
-  margin: 0;
+  min-height: 100%;
 
 }
 
@@ -26,10 +31,8 @@ html, body {
 }
 
 
-
-
 .splash h1 {
-	width: 900px;
+	width: 750px;
 	color: rgb( 46, 53, 49 );
 	font-family: archer, serif;
 	font-weight: 300;
@@ -39,8 +42,6 @@ html, body {
 	position: relative;
 	top: 240px;
 	left: 26%;
-
-
 
 }
   
@@ -56,8 +57,6 @@ html, body {
 	text-transform: lowercase;
 	letter-spacing: 3px;
 	position: relative;
-
-	
 
 }
 
@@ -76,12 +75,7 @@ html, body {
 	left: 0;
 	right: 0;
 
-
-
 }
-
-
-
 
 
 #email-wrapper {
@@ -97,16 +91,11 @@ html, body {
 	margin-left: auto;
 	
 
-	
 }
 
  
 /* Mailchimp CSS */
 
-#mc_embed_signup {
-
-
-}
 
 #mce-EMAIL {
 	
@@ -125,7 +114,6 @@ html, body {
 	top: 20%;
 	left: 3%;
 	
-
 }
 
 .button {
@@ -141,6 +129,7 @@ html, body {
 
 	cursor: pointer;
 }
+
 
 
 /* End Mailchimp CSS */
@@ -188,10 +177,9 @@ html, body {
   width: 100%;
   height: 60px;
   position: absolute;
-  bottom: 0;
-  
+  left: 0;
+  bottom: 0; 
 
-  
 }
 
 
@@ -199,17 +187,14 @@ html, body {
 .footer ul {
 	list-style: none;
 	display: inline-block;
-	position: absolute;
 
 }
 
 .footer li {
 	display: inline-block;
 	text-decoration: none;
-	color: #231f20;
-	font-size: .8em;
-	font-weight: bold;
-
+	
+	
 }
 
 
@@ -225,31 +210,29 @@ html, body {
 }
 
 
-.copyright {
+#copyright {
 
 	font-family: open sans, arial, sans-serif;
 	font-size: .8em;
+	color: #231f20;
 	font-weight: normal;
 	position: relative;
-	left: 300px;
+	margin-left: 10%;
 	
 
 
 }
-	
 
-
-.bottom-nav {
+#bottom-nav {
 	font-family: open sans, arial, sans-serif;
+	color: #231f20;
 	font-size: .8em;
 	font-weight: 400;
+	font-weight: bold;
 	position: relative;
-	left: 900px;
-
+	margin-left: 50%;
 
 }
-
-
 
 
 
