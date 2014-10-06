@@ -137,6 +137,10 @@ html, body {
 	right: 4%;
 }
 
+.button:hover {
+
+	cursor: pointer;
+}
 
 
 /* End Mailchimp CSS */
