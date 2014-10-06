@@ -27,16 +27,6 @@ html, body {
 
 
 
-.splash {
-
-	padding-bottom: 10px;
-	position: fixed;
-	top: 27%;
-	left: 29%;
-
-
-}
-
 
 .splash h1 {
 	width: 100%;
@@ -46,8 +36,10 @@ html, body {
 	font-size: 2em;
 	word-spacing: 3px;
 	letter-spacing: 3px;
-	position: fixed;
+	position: relative;
+	top: 240px;
 	left: 26%;
+
 
 
 }
@@ -63,9 +55,8 @@ html, body {
 	width: 100%;
 	text-transform: lowercase;
 	letter-spacing: 3px;
-	padding-left: 1.3%;
-	padding-top: 1px;
-	position: fixed;
+	position: relative;
+
 	
 
 }
@@ -80,8 +71,8 @@ html, body {
 	text-align: center;
 	line-height: 10px;
 	color: rgb( 80, 81, 81 );
-	position: fixed;
-	top:35%;
+	position: relative;
+	top: 240px;
 	left: 0;
 	right: 0;
 
@@ -100,37 +91,19 @@ html, body {
 	box-shadow: 0.5px 0.866px 10px 0px rgb( 4, 5, 5 );
 	width: 536px;
 	height: 82px;
-	position: fixed;
-	top: 45%;
-	left: 50%;
-	margin-left: -268px;
+	position: relative;
+	top: 260px;
+	margin-right: auto;
+	margin-left: auto;
+	
 
 	
 }
 
- #email-input {
-
-	width: 345px;
-  	height: 47px;
-	border-radius: 3px;
-	background-color: rgb( 205, 197, 179 );
-	box-shadow: 0.5px 0.866px 0px 0px rgb( 255, 255, 255 );
-	box-shadow: inset 0px 0px 5px rgba(0,0,0,0.5);
-	display: inline-block;
-	position: fixed;
-	top: 47.25% ;
-	left: 32.5%;
-	
-  }
-
+ 
 /* Mailchimp CSS */
 
 #mc_embed_signup {
-
-	position: fixed;
-	top: 47%;
-	left: 57.5%;
-
 
 
 }
@@ -148,22 +121,22 @@ html, body {
 	box-shadow: 0.5px 0.866px 0px 0px rgb( 255, 255, 255 );
 	box-shadow: inset 0px 0px 5px rgba(0,0,0,0.5);
 	display: inline-block;
-	position: fixed;
-	top: 47% ;
-	left: 32.5%;
+	position: absolute;
+	top: 20%;
+	left: 3%;
+	
 
 }
 
 .button {
-	position: fixed;
 	background-image: url('http://i1216.photobucket.com/albums/dd370/kjames1581/butoon_03.png');
 	height: 49px;
 	width: 142px;
+	position: absolute;
+	top: 20%;
+	right: 4%;
 }
 
-.button:hover {
-	cursor: pointer;
-}
 
 
 /* End Mailchimp CSS */
@@ -172,11 +145,8 @@ html, body {
 .social {
 	
 	text-align: center;
-	padding: 10px;
-	position: fixed;
-	top:55%;
-	left: 0;
-	right: 0;
+	position: relative;
+	top: 270px;
 
 }
 
@@ -199,12 +169,10 @@ html, body {
 
 
 #facebook {
-	float: right;
-	position: fixed;
-	top:57%;
-	left: 59.5%;
+	position: relative;
+	top: -65px;
+	left: 150px;
 	
-
 }
 
 
@@ -212,11 +180,12 @@ html, body {
 .footer {
 
   background-color: rgb( 149, 177, 161 );
-  min-width: 1528px;
   width: 100%;
   height: 60px;
-  position: fixed;
-  bottom:0;
+  position: absolute;
+  bottom: 0;
+  
+
   
 }
 
@@ -225,7 +194,7 @@ html, body {
 .footer ul {
 	list-style: none;
 	display: inline-block;
-	position: fixed;
+	position: absolute;
 	left: 20%;
 
 }
@@ -251,15 +220,13 @@ html, body {
 
 }
 
-}
 
 .copyright {
 
 	font-family: open sans, arial, sans-serif;
 	font-size: .8em;
 	font-weight: normal;
-	position: fixed;
-	left: 5%;
+	
 
 
 }
@@ -270,14 +237,11 @@ html, body {
 	font-family: open sans, arial, sans-serif;
 	font-size: .8em;
 	font-weight: 400;
+	position: relative;
+	left: 500px;
 
 }
 
-#bottom-nav {
-	margin-left: 700px;
-
-
-}
 
 
 
