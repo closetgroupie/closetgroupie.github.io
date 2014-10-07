@@ -263,9 +263,8 @@ body {
 	font-weight: 500;
 	font-size: 2em;
 	color: rgb( 46, 53, 49 );
-	width: 600px;
+	width: 100%;
 	text-transform: lowercase;
-	text-align: center;
 	letter-spacing: 3px;
 	position: absolute;
 	top: 100px;
