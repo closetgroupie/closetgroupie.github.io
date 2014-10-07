@@ -248,8 +248,9 @@ body {
 
  	.splash h1 {
 
- 	font-size: 2em;
+ 	font-size: 4em;
  	font-family: archer, georgia, serif;
+ 	text-align: center;
 
  	}
 
@@ -257,16 +258,17 @@ body {
 
 	font-family: open sans, arial, sans-serif;
 	font-weight: 500;
-	font-size: 2em;
+	font-size: 3em;
 	color: rgb( 46, 53, 49 );
 	width: 100%;
 	text-transform: lowercase;
+	text-align: center;
 	letter-spacing: 3px;
 	position: relative;
 
-}
 
  }
+}
 
  /* ipad */
 
