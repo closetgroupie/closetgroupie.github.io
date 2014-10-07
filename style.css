@@ -249,11 +249,12 @@ body {
  	.splash h1 {
 
  	font-size: 3em;
- 
  	font-family: archer, georgia, serif;
  	text-align: center;
  	position: relative;
  	top: 250;
+ 	margin-right: auto;
+ 	margin-left: auto;
  
  
 
