@@ -275,10 +275,21 @@ body {
  		
  	}
  	
+ 	#email-wrapper {
+
+	width: 536px;
+	height: 130px;
+	position: relative;
+	top: 260px;
+	margin-right: auto;
+	margin-left: auto;
+	
+
+}
+ 	
  	.social p {
 		font-size: 1.6em;
-
- 	
+ 	}
  	
 }
 
