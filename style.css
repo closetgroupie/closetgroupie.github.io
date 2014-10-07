@@ -254,7 +254,7 @@ body {
  	text-align: center;
  	position: relative;
  	top: 250px;
- 	margin-right: -50px;
+ 
  
 
  	}
@@ -269,6 +269,7 @@ body {
 	text-transform: lowercase;
 	letter-spacing: 3px;
 	position: relative;
+	margin-right: 50px;
 
  }
 }
