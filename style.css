@@ -248,32 +248,38 @@ body {
 
  	.splash h1 {
 
- 	font-size: 3em;
- 	font-family: archer, georgia, serif;
- 	text-align: center;
- 	position: relative;
- 	top: 250;
- 	left: 110px;
+ 		font-size: 3em;
+ 		font-family: archer, georgia, serif;
+ 		text-align: center;
+ 		position: relative;
+ 		top: 250;
+ 		left: 110px;
  	
  	}
 
  	#js-rotating {
 
-	font-family: open sans, arial, sans-serif;
-	font-weight: 500;
-	font-size: 2em;
-	color: rgb( 46, 53, 49 );
-	text-transform: lowercase;
-	letter-spacing: 3px;
-	position: relative;
+		font-family: open sans, arial, sans-serif;
+		font-weight: 500;
+		font-size: 2em;
+		color: rgb( 46, 53, 49 );
+		text-transform: lowercase;
+		letter-spacing: 3px;
+		position: relative;
 
  	}
  
  	#splash-text {
- 	font-size: 1.6em;
- 	width: 100%;
+ 		font-size: 1.6em;
+ 		width: 100%;
  		
  	}
+ 	
+ 	.social p {
+		font-size: 1.6em;
+
+ 	
+ 	
 }
 
  /* ipad */
