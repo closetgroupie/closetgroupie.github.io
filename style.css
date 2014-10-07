@@ -249,7 +249,7 @@ body {
  	.splash h1 {
 
  	font-size: 4em;
- 	width: 400px;
+ 	width: 100%;
  	font-family: archer, georgia, serif;
  	text-align: center;
  	position: relative;
