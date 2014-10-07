@@ -291,6 +291,12 @@ body {
 		font-size: 1.6em;
  	}
  	
+ 	#mce-EMAIL {
+	
+	width: 360px;
+  	height: 100px;
+ 	}
+ 	
 }
 
  /* ipad */
