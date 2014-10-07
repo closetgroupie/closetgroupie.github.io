@@ -255,9 +255,6 @@ body {
  	top: 250;
  	left: 110px;
  	
- 
- 
-
  	}
 
  	#js-rotating {
@@ -270,7 +267,12 @@ body {
 	letter-spacing: 3px;
 	position: relative;
 
- }
+ 	}
+ 
+ 	#splash-text {
+ 	font-size: 1.5em;
+ 		
+ 	}
 }
 
  /* ipad */
