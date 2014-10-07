@@ -266,7 +266,7 @@ body {
 	width: 100%;
 	text-transform: lowercase;
 	letter-spacing: 3px;
-	position: absolute;
+	position: relative;
 	top: 100px;
 
 
