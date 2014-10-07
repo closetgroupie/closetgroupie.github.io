@@ -235,20 +235,32 @@ body {
 }
 	
 
+/* iPhone 5 portrait and landscape */
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
 
-	#logo {
-		font-size: 3em;
-		font-family: archer, georgia, serif;
-		text-align: center;
-		width: 100%;
-	}
+/* STYLES GO HERE */}
 
 
+/* iphone 2g, 3g, 4, 4s */
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-}
+ .splash h1 {
+
+ 	font-size: 2em;
+ 	font-family: arial;
+
+ 	}
+
+ }
+
+ /* ipad */
+
+ @media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+
+ /* STYLES GO HERE */}
+
 
 
 
