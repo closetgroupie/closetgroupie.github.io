@@ -269,8 +269,9 @@ body {
 	letter-spacing: 3px;
 	position: absolute;
 	top: 100px;
-	margin-right: auto;
-	margin-left: auto;
+	right: 0;
+	left: 0;
+
 
 
  }
