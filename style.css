@@ -296,6 +296,16 @@ body {
   	
  	}
  	
+ 		
+ 	.button {
+	background-image: url('http://i1216.photobucket.com/albums/dd370/kjames1581/button_03.jpg');
+	height: 60px;
+	width: 142px;
+	position: absolute;
+	top: 20%;
+	right: 4%;
+ 	}
+ 	
  	.social p {
 		font-size: 1.6em;
  	}
@@ -305,14 +315,7 @@ body {
  		top: -80px;
 		left: 275px;
  	}
- 	
- 	.button {
-	background-image: url('http://i1216.photobucket.com/albums/dd370/kjames1581/button_03.jpg');
-	height: 60px;
-	width: 142px;
-	position: absolute;
-	top: 20%;
-	right: 4%;
+ 
  	
  	.footer {
 
