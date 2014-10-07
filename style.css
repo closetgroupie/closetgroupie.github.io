@@ -293,11 +293,23 @@ body {
  	
  	#mce-EMAIL {
 	
-	width: 360px;
-  	height: 60px;
-  	font-size: 3em;
+		width: 360px;
+  		height: 60px;
+  		font-size: 3em;
  	}
  	
+ 	
+ 	#copyright {
+
+		font-size: 1.6em;
+	
+	}
+
+	#bottom-nav {
+
+		font-size: 1.6em;
+	
+	}
 }
 
  /* ipad */
