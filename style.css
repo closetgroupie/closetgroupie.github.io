@@ -253,7 +253,7 @@ body {
  	font-family: archer, georgia, serif;
  	text-align: center;
  	position: relative;
- 	top: 130px;
+ 	top: 140px;
 
  	}
 
@@ -267,7 +267,9 @@ body {
 	text-align: center;
 	letter-spacing: 3px;
 	position: absolute;
-	top: 135px;
+	top: 145px;
+	right: 0;
+	left: 0;
 
 
  }
