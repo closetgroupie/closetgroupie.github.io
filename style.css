@@ -299,9 +299,8 @@ body {
  	}
  	
  	#facebook {
-	position: relative;
-	top: -20px;
-	right: -10px;
+ 		position: relative;
+ 		bottom: 100px;
 	
  	}
  	
