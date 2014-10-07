@@ -248,7 +248,7 @@ body {
 
  	.splash h1 {
 
- 	font-size: 3em;
+ 	font-size: 2em;
  	width: 400px;
  	font-family: archer, georgia, serif;
  	text-align: center;
@@ -259,7 +259,6 @@ body {
 
 	font-family: open sans, arial, sans-serif;
 	font-weight: 500;
-	font-size: 1.5em;
 	color: rgb( 46, 53, 49 );
 	width: 100%;
 	text-transform: lowercase;
