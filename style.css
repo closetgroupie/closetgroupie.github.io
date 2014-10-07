@@ -303,8 +303,13 @@ body {
   		height: 80px;
   
 
-}
- 	
+	}
+ 	#bottom-nav {
+		font-size: .8em;
+		position: relative;
+		margin-left: 30%;
+
+	}
  	
  	
  	#copyright {
