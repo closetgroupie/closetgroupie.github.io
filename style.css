@@ -298,6 +298,12 @@ body {
   		font-size: 3em;
  	}
  	
+ 	#facebook {
+	position: relative;
+	top: 40%;
+	left: 30%;
+ 	}
+ 	
  	.footer {
 
   		height: 80px;
