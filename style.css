@@ -300,7 +300,9 @@ body {
  	
  	#facebook {
  		position: relative;
- 		margin-left: 30%;
+ 		top: -65px;
+		left: 150px;
+ 	
 	
  	}
  	
