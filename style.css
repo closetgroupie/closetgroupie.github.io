@@ -138,6 +138,7 @@ body {
 .social {
 	
 	text-align: center;
+	padding-bottom: 60px;
 	position: relative;
 	top: 270px;
 
@@ -146,7 +147,6 @@ body {
 .social p {
 	font-family: georgia, serif;
 	line-height: 10px;
-	padding-bottom: 60px;
 	color: rgb( 80, 81, 81 );
 	font-size: 1em;
 	font-style: italic;
