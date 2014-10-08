@@ -320,6 +320,10 @@ body {
  		top: -80px;
 		left: 275px;
  	}
+ 	
+ 	.footer {
+ 		height: 70px;
+ 	}
  
  	
  	#bottom-nav {
