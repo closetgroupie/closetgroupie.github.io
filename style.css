@@ -93,12 +93,7 @@ body {
 
 }
 
- 
-/* Mailchimp CSS */
-
-
 #email-input {
-	
 	width: 345px;
   	height: 46px;
 	border-radius: 3px;
@@ -113,7 +108,8 @@ body {
 	position: absolute;
 	top: 20%;
 	left: 3%;
-	
+
+
 }
 
 .button {
@@ -132,15 +128,12 @@ body {
 
 
 
-/* End Mailchimp CSS */
-
-
-.social {
+ .social {
 	
 	text-align: center;
-	padding-bottom: 5%;
 	position: relative;
 	top: 270px;
+	padding-bottom: 5%;
 
 }
 
@@ -151,7 +144,6 @@ body {
 	font-size: 1em;
 	font-style: italic;
 	
-
 }
 
 
@@ -161,14 +153,12 @@ body {
 }
 
 
-
 #facebook {
 	position: relative;
 	top: -65px;
-	left: 150px;
+	margin-left: 21%;
 	
 }
-
 
 
 .footer {
@@ -240,8 +230,9 @@ body {
 .about {
 	
 	margin-top: 240px;
-	margin-right: 30%;
-	margin-left: 30%;
+	margin-right: 20%;
+	margin-left: 20%;
+	line-height: 25px;
 	
 }
 	
@@ -256,19 +247,49 @@ body {
 }
 
 #about p {
-
-	font-family: open sans, arial, sans-serif;
-	color: rgb( 46, 53, 49 );
+	
+	font-family: georgia, serif;
+	font-size: 1.1em;
+	font-style: italic;
 	text-align: left;
+	color: rgb( 80, 81, 81 );
+	
 }
 
-/* MailChimp Thank You Link */
+.social-about {
+	text-align: center;
+	position: relative;
+	top: 30px;
+	padding-bottom: 5%;
+}
+
+.social-about p {
+	font-family: georgia, serif;
+	line-height: 10px;
+	color: rgb( 80, 81, 81 );
+	font-size: 1em;
+	font-style: italic;
+
+}
+
+#social-text-about {
+	font-weight: 600;
+}
+
+#facebook-about {
+	position: relative;
+	top: -65px;
+	margin-left: 35%;
+
+
+}
+
+
+/* Thank You Page MailChimp */
 
 .thank-you {
 	
 	margin-top: 240px;
-	margin-right: 30%;
-	margin-left: 30%;
 
 }
 
@@ -280,6 +301,48 @@ body {
 	font-weight: normal;
 
 }
+
+#thank-you p {
+
+	font-family: georgia, serif;
+	font-size: 1.1em;
+	font-style: italic;
+	text-align: center;
+	line-height: 10px;
+	color: rgb( 80, 81, 81 );
+	position: relative;
+
+}
+
+
+.social-thankyou {
+	text-align: center;
+	position: relative;
+	top: 30px;
+	padding-bottom: 5%;
+}
+
+.social-thankyou p {
+	font-family: georgia, serif;
+	line-height: 10px;
+	color: rgb( 80, 81, 81 );
+	font-size: 1em;
+	font-style: italic;
+
+}
+
+#social-text-thankyou {
+	font-weight: 600;
+}
+
+#facebook-thankyou {
+	position: relative;
+	top: -65px;
+	margin-left: 21%;
+
+
+}
+
 
 	
 
