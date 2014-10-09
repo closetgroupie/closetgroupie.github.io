@@ -447,12 +447,7 @@ body {
  	
  	#email-wrapper {
 
-	width: 600px;
-	height: 130px;
-	position: relative;
-	top: 260px;
-	margin-right: auto;
-	margin-left: auto;
+	
 	
 
 }
@@ -461,23 +456,13 @@ body {
  	
  	#email-input {
 	
-		width: 360px;
-  		height: 75px;
-  		font-size: 2.5em;
-  		position: absolute;
-		top: 12%;
-		left: 3%;
+		
   	
  	}
  	
  		
  	.button {
-	background-image: url('http://i1216.photobucket.com/albums/dd370/kjames1581/iphonebutton_09.jpg');
-	height: 98px;
-	width: 142px;
-	position: absolute;
-	top: 12%;
-	right: 4%;
+	
  	}
  	
  	.social p {
