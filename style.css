@@ -452,8 +452,6 @@ body {
 
 }
  	
- 	
- 	
  	#email-input {
 	
 		
@@ -470,9 +468,7 @@ body {
  	}
  	
  	#facebook {
- 		position: relative;
- 		top: -80px;
-		left: 275px;
+ 		
  	}
  	
  	.footer {
