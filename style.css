@@ -83,42 +83,64 @@ body {
 	border-radius: 5px;
 	background-color: rgb( 255, 245, 221 );
 	box-shadow: 0.5px 0.866px 10px 0px rgb( 4, 5, 5 );
-	width: 536px;
+	width: 535px;
 	height: 82px;
 	position: relative;
 	top: 260px;
 	margin-right: auto;
 	margin-left: auto;
 	
+}
+
+
+#email li {
+	display: inline-block;
+	list-style: none;
+	position: relative;
+	top: 15px;
+	right: 30px;
+		
 
 }
 
 #email-input {
-	width: 345px;
-  	height: 46px;
-	border-radius: 3px;
+	
 	font-family: georgia, serif;
-	font-size:1.1em;
-	color:rgb( 122, 117, 105 );
-	font-style: italic;
-	background-color: rgb( 205, 197, 179 );
-	box-shadow: 0.5px 0.866px 0px 0px rgb( 255, 255, 255 );
-	box-shadow: inset 0px 0px 5px rgba(0,0,0,0.5);
-	display: inline-block;
-	position: absolute;
-	top: 20%;
-	left: 3%;
-
-
+	font-style: italic;	
+	color: #7a7569;
+	font-size: 1.1em;
+	border-radius: 3px;
+  	background-color: rgb( 205, 197, 179 );
+  	box-shadow: 0.5px 0.866px 0px 0px rgb( 255, 255, 255 );
+  	width: 345px;
+  	height: 47px;
 }
 
 .button {
-	background-image: url('http://i1216.photobucket.com/albums/dd370/kjames1581/butoon_03.png');
-	height: 49px;
-	width: 142px;
-	position: absolute;
-	top: 20%;
-	right: 4%;
+	background-color: #a3c2b0;
+	width: 140px;
+  	height: 47px;
+
+	color: #2e3531;
+	font-family: open sans, arial, sans-serif;
+	font-size: 1.1em;
+	text-shadow: 0.5px 0.866px 0px rgb( 255, 255, 255 );
+  		-moz-transform: matrix( 1.1050073340001,0,0,1.1050073340001,0,0);
+  		-webkit-transform: matrix( 1.1050073340001,0,0,1.1050073340001,0,0);
+  		-ms-transform: matrix( 1.1050073340001,0,0,1.1050073340001,0,0);
+	
+
+  	border-radius: 3px;
+  	background-image: -moz-linear-gradient( 90deg, rgb(155,170,161) 100%, rgb(255,255,255) 100%);
+  	background-image: -webkit-linear-gradient( 90deg, rgb(155,170,161) 100%, rgb(255,255,255) 100%);
+  	background-image: -ms-linear-gradient( 90deg, rgb(155,170,161) 100%, rgb(255,255,255) 100%);
+  	box-shadow: 0.5px 0.866px 3px 0px rgb( 35, 31, 32 );
+
+  	position: relative;
+	left: 10px;
+ 
+
+
 }
 
 .button:hover {
@@ -130,19 +152,37 @@ body {
 
  .social {
 	
-	text-align: center;
 	position: relative;
 	top: 270px;
 	padding-bottom: 5%;
+	
+
+}
+
+
+.social ul {
+	text-align: center;
+	
+
+
+}
+
+
+.social li {
+	list-style: none;
+	display: inline-block;
 
 }
 
 .social p {
 	font-family: georgia, serif;
-	line-height: 10px;
+	text-align: center;
 	color: rgb( 80, 81, 81 );
 	font-size: 1em;
 	font-style: italic;
+	position: relative;
+
+
 	
 }
 
@@ -150,14 +190,22 @@ body {
 #social-text {
 	font-weight: 600;
 
+
 }
 
 
 #facebook {
-	position: relative;
-	top: -65px;
-	margin-left: 21%;
 	
+	position: relative;
+	bottom: -10px;
+
+
+}
+
+#share-text {
+	position: relative;
+	top: -25px;
+	padding-bottom: 5%;
 }
 
 
@@ -260,31 +308,36 @@ body {
 }
 
 .social-about {
-	text-align: center;
+	
 	position: relative;
-	top: 30px;
 	padding-bottom: 5%;
+
+}
+
+.social-about ul {
+	text-align: center;
+	
+
+
+}
+
+
+.social-about li {
+	list-style: none;
+	display: inline-block;
+
 }
 
 .social-about p {
 	font-family: georgia, serif;
-	line-height: 10px;
+	text-align: center;
 	color: rgb( 80, 81, 81 );
 	font-size: 1em;
 	font-style: italic;
-
-}
-
-#social-text-about {
-	font-weight: 600;
-}
-
-#facebook-about {
 	position: relative;
-	top: -65px;
-	margin-left: 35%;
 
 
+	
 }
 
 
@@ -317,34 +370,37 @@ body {
 
 }
 
-
 .social-thankyou {
-	text-align: center;
+	
 	position: relative;
-	top: 30px;
 	padding-bottom: 5%;
+
+}
+
+.social-thankyou ul {
+	text-align: center;
+	
+
+
+}
+
+
+.social-thankyou li {
+	list-style: none;
+	display: inline-block;
+
 }
 
 .social-thankyou p {
 	font-family: georgia, serif;
-	line-height: 10px;
+	text-align: center;
 	color: rgb( 80, 81, 81 );
 	font-size: 1em;
 	font-style: italic;
-
-}
-
-#social-text-thankyou {
-	font-weight: 600;
-}
-
-#facebook-thankyou {
 	position: relative;
-	top: -65px;
-	margin-left: 21%;
-
 
 }
+
 
 
 	
