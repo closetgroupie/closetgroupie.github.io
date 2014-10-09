@@ -454,13 +454,17 @@ body {
  	
  	#email-input {
 	
-		
+		font-size: 2em;
   	
  	}
  	
  		
  	.button {
 	
+ 	}
+
+ 	.social li {
+ 		font-size: 1.6em;
  	}
  	
  	.social p {
@@ -470,6 +474,7 @@ body {
  	#facebook {
  		
  	}
+
  	
  	.footer {
  		height: 70px;
