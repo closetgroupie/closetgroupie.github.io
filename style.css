@@ -447,7 +447,7 @@ body {
  	
  	#email-wrapper {
 
-	width: 57%;
+	width: 60%;
 	
 
 }
@@ -463,8 +463,8 @@ body {
 	
  	}
 
- 	.social {
- 		font-size: 1.6em;
+ 	.social li {
+ 		display: inline-block;
  	}
  	
  	.social p {
