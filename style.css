@@ -451,6 +451,13 @@ body {
 
 }
  	
+	#email li {
+		display: inline-block;
+		list-style: none;
+		position: relative;
+		top: 10px;
+		right: 35px;
+
  	#email-input {
 	
 		font-size: 2em;
