@@ -326,6 +326,7 @@ body {
 	list-style: none;
 	display: inline-block;
 
+
 }
 
 .social-about p {
@@ -471,9 +472,11 @@ body {
 
  	.social li {
  		display: inline-block;
+ 		font-size: 1.6em;
  	}
  	
  	.social p {
+ 		font-size: 1.6em;
  	}
  	
  	#facebook {
